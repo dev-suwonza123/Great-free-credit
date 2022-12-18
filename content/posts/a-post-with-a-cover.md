@@ -12,6 +12,16 @@ description: >-
   document should be publishable as-is, as plain text, without looking like it's
   been marked up with tags or formatting instructions.
 ---
+<style>
+      marquee{
+      font-size: 30px;
+      font-weight: 800;
+      color: #FF0000;
+      font-family: sans-serif;
+      }
+    </style>
+
+<marquee>NAZA สล็อตออนไลน์ ศูนย์รวมเว็บพนันออนไลน์</marquee>  
 
 Readability, however, is emphasized above all else. A Markdown-formatted
 document should be publishable as-is, as plain text, without looking
