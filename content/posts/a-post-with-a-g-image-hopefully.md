@@ -5,7 +5,7 @@ published: true
 tags:
   - g-image
   - test
-cover_image: ../../static/images/uploads/u31-188.jpg
+cover_image: ../../static/images/uploads/u31-188.jpgs
 description: Just one more test...
 ---
 รวมเว็บเครดิตฟรีกดรับเอง
