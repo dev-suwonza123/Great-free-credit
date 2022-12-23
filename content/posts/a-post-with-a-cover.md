@@ -65,12 +65,6 @@ description: >-
 
 ---
 
-> ### [![gif](https://iili.io/Hnns0kx.gif)](https://awayge.com/register?token=fy6xu5BTKLOA1xtg)
+### [![gif](https://iili.io/Hnns0kx.gif)](https://awayge.com/register?token=fy6xu5BTKLOA1xtg)
 
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions.
-
-While Markdown's syntax has been influenced by several existing text-to-HTML filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
+<blockquote class="twitter-tweet" data-lang="th" data-theme="dark"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99?src=hash&amp;ref_src=twsrc%5Etfw">#เครดิตฟรีประจำวัน</a><br>18/12/2022 18:05น.<br>ลิงค์กิจกรรม:<a href="https://t.co/wbqgqoYz6F">https://t.co/wbqgqoYz6F</a><br>รหัสคำตอบ<br><br>✅ A5N9YP<br>✅ K48G9F<br>✅ Gilles de Maistre<br>✅ Jon Turteltaub<br>✅ M5D3RW<br><br>ลิ้งสมัคร <a href="https://t.co/3LxPZS4Rts">https://t.co/3LxPZS4Rts</a><a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B8%A3%E0%B8%B5?src=hash&amp;ref_src=twsrc%5Etfw">#เครดิตฟรี</a> <a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AD%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#เครดิตฟรีกดรับเอง</a> <a href="https://twitter.com/hashtag/%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B8%A3%E0%B8%B5?src=hash&amp;ref_src=twsrc%5Etfw">#โค้ดเครดิตฟรี</a></p>&mdash; ทิดจ่อย (@creditsfree50) <a href="https://twitter.com/creditsfree50/status/1604434174063935489?ref_src=twsrc%5Etfw">18 ธันวาคม 2565</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
